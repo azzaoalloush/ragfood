@@ -184,7 +184,7 @@ Answer:"""
             print("⚙️  Using Ollama...\n")
             answer = generate_with_ollama(prompt)
 
-        # Step 6: Return final result
+        # Step 6: Return final results
         return answer
     
     except Exception as e:
