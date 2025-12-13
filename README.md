@@ -171,7 +171,7 @@ You: Which Indian dish uses chickpeas?
 
 ## ⚙️ Configuration
 
-### Environment Variables
+### Environment Variables 
 
 | Variable | Required | Description |
 |----------|----------|-------------|
