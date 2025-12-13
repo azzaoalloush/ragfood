@@ -150,7 +150,7 @@ def rag_query(question):
         # Step 2: Extract documents from results
         top_docs = []
         top_ids = []
-        
+         
         for result in results:
             # Upstash returns: id, score, metadata
             top_ids.append(result["id"])
